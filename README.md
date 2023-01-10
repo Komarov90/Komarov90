@@ -9,4 +9,4 @@
 <code>📦 Tech stack: html, css, js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@DMITRY_90](https://telegram.me/DMITRY_90)</code>
-<code>📫 [your-email](mailto:your-email)</code>
+<code>📫 [your-email](mailto:dmitry.komarov90@gmail.com)</code>
